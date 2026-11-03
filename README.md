@@ -1,4 +1,4 @@
-# 关于 BetaStudio2 的非正式说明书
+# 关于 BetaStudio2 的正式（不了一点）说明书
 
 你好，这里是 BetaStudio2，一个()的人，至于"()"中的内容嘛……你猜 awa
 
