@@ -13,7 +13,7 @@
 - **一个啥都不会很多的地球 OL 玩家** —— 整日沉迷于现实生存模式，技术点全点在奇怪的地方
 - **整天只会撸猫的猫晚期患者(?)** —— 撸猫才是第一生产力，干活只是为了更好吸猫
 - **音游小白** —— 手速跟不上脑子，但依然倔强地 Full Combo 中（骗你的连FC都拿不到）
-- **Arch Linux 用户** —— "I use Arch, btw"（Kernel Panic 呜呜）
+- **ArchLinux@BetaStudio2 ~>** —— "I use Arch, btw"（Kernel Panic 呜呜）
 - **偶尔已读乱回选手** —— 阿巴阿巴阿巴……
 - **网页拆家 & js.Node & Dcoker** —— 砌砖是完全不认真的
 
